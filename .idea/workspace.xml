@@ -86,8 +86,8 @@
       <file leaf-file-name="dev.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simpleblog/settings/dev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="130">
+              <caret line="83" selection-start-line="83" selection-end-line="92" selection-end-column="1" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -98,8 +98,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simpleblog/libs/tx_sms/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state>
+              <caret selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -223,6 +223,30 @@
             <path>
               <item name="simpleblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="tx_sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleblog" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -641,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simpleblog/settings/const.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -655,10 +672,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simpleblog/settings/dev.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="130">
+          <caret line="83" selection-start-line="83" selection-end-line="92" selection-end-column="1" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -667,8 +691,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simpleblog/libs/tx_sms/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
